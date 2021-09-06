@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EMILG1808
-- 👀 I’m interested in ...
+- 👀 I’m interested in Learning code
 - 🌱 I’m currently learning C#/C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e.gonzales657@gmail.com
 
 <!---
